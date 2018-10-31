@@ -1,0 +1,15 @@
+Kocaeli Üniversitesi Bilgisayar Mühendisliği Bölümü
+Nesneye Yönelik Programlama Dersi
+QUIZ 2
+
+-------------------------------
+
+Bu program kullanıcıdan alınan sayıyı basamaklarına ayırdıktan sonra
+kaç basamaklı olduğunu bulur ve daha sonra her alttaki işlemi yapar.
+
+(1.basamak^basamakSayisi)+(2.basamak^basamakSayisi)+...= girilenSayi
+
+bu işleme göre kullanıcıdan alınan sayının armstrong sayısı olup
+olmadığına bakar ve buna göre kullanıcıya değer döndürür.
+
+-------------------------------
